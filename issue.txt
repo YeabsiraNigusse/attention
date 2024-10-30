@@ -63,11 +63,11 @@ THINGS TO CHECK OUT
 
 WAYS WE TRIED OUT
 
-- we found that the agent module is deleted at <commit> commit
+- we found that the agent module is deleted at <3d57eea5174130ab1962175b634f2d36e09e1391> commit
 - we tried get the agent module in the cogserver repository from specific commit back and build with the recent commit but it didn't work
 - we tried to build the cogserver before the agent module deleted but it didnt work
 
 
 
 so we concluded that to build the attention module we need the agent module 
-which is deleted at <commit> commit from the cogserver repository
+which is deleted at <3d57eea5174130ab1962175b634f2d36e09e1391> commit from the cogserver repository
