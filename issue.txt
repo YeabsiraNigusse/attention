@@ -1,0 +1,14 @@
+the problem with this code base is that
+
+- when i add experiments to the cmakelist file it wont build
+- when i remove experiments from the cmakelist file it builds
+- atom_types file doesnt exist inside attention folder
+- there is no agent.h file in the cogserver folder
+- so the missing of the above two files lead to build error
+
+possible solutions
+
+- find and add the missing files to the respective folders
+- ask someone who knows or run the codebase with some examples to see if it works
+- just play with some c++ functions if they work
+- study fome of the functions how they work.

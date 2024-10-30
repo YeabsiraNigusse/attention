@@ -191,6 +191,8 @@ ADD_CUSTOM_TARGET(uninstall
 	VERBATIM
 	COMMENT "Uninstalling AttentionBank ..."
 )
+# Add the experiments directory
+add_subdirectory(experiments)
 
 IF (CXXTEST_FOUND)
 	ADD_CUSTOM_TARGET(tests)
