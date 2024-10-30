@@ -1,0 +1,96 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"ADD_GUILE_MODULE"
+		],
+		"files" : 
+		[
+			"opencog/attentionbank/types/CMakeLists.txt",
+			"/usr/local/share/opencog/cmake/OpenCogGuile.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 260,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 293,
+				"parent" : 3
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/opencog",
+			"paths" : 
+			[
+				"opencog/attentionbank/types/libattention-types.so"
+			],
+			"targetId" : "attention-types::@ce4ee50a1ed26bedf41a",
+			"targetIndex" : 9,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/opencog/attentionbank/types",
+			"paths" : 
+			[
+				"build/opencog/attentionbank/types/atom_types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "/usr/share/guile/site/3.0/opencog/attentionbank/types",
+			"paths" : 
+			[
+				"build/opencog/attentionbank/types/attention_types.scm"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "opencog/attentionbank/types",
+		"source" : "opencog/attentionbank/types"
+	}
+}

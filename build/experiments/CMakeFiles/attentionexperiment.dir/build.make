@@ -73,29 +73,29 @@ experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o: exper
 experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o: ../experiments/ExperimentSetupModule.cc
 experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o: experiments/CMakeFiles/attentionexperiment.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o"
-	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o -MF CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o.d -o CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o -c /home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc
+	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o -MF CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o.d -o CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o -c /home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc
 
 experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.i"
-	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc > CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.i
+	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc > CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.i
 
 experiments/CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.s"
-	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc -o CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.s
+	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc -o CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.s
 
 experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o: experiments/CMakeFiles/attentionexperiment.dir/flags.make
 experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o: ../experiments/SentenceGenStimulateAgent.cc
 experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o: experiments/CMakeFiles/attentionexperiment.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o"
-	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o -MF CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o.d -o CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o -c /home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc
+	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o -MF CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o.d -o CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o -c /home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc
 
 experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.i"
-	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc > CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.i
+	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc > CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.i
 
 experiments/CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.s"
-	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc -o CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.s
+	cd /home/yeab/Desktop/attention/build/experiments && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc -o CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.s
 
 # Object files for target attentionexperiment
 attentionexperiment_OBJECTS = \

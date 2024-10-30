@@ -1,18 +1,18 @@
 Determining if the secure_getenv exist failed with the following output:
 Change Dir: /home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_583a4/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_583a4.dir/build.make CMakeFiles/cmTC_583a4.dir/build
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_75370/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_75370.dir/build.make CMakeFiles/cmTC_75370.dir/build
 gmake[1]: Entering directory '/home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_583a4.dir/CheckSymbolExists.c.o
-/usr/bin/cc   -Wall -fPIC -fstack-protector  -o CMakeFiles/cmTC_583a4.dir/CheckSymbolExists.c.o -c /home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Building C object CMakeFiles/cmTC_75370.dir/CheckSymbolExists.c.o
+/usr/bin/gcc   -Wall -fPIC -fstack-protector  -o CMakeFiles/cmTC_75370.dir/CheckSymbolExists.c.o -c /home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
 /home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
 /home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘secure_getenv’ undeclared (first use in this function)
     8 |   return ((int*)(&secure_getenv))[argc];
       |                   ^~~~~~~~~~~~~
 /home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
-gmake[1]: *** [CMakeFiles/cmTC_583a4.dir/build.make:78: CMakeFiles/cmTC_583a4.dir/CheckSymbolExists.c.o] Error 1
+gmake[1]: *** [CMakeFiles/cmTC_75370.dir/build.make:78: CMakeFiles/cmTC_75370.dir/CheckSymbolExists.c.o] Error 1
 gmake[1]: Leaving directory '/home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp'
-gmake: *** [Makefile:127: cmTC_583a4/fast] Error 2
+gmake: *** [Makefile:127: cmTC_75370/fast] Error 2
 
 
 File /home/yeab/Desktop/attention/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:

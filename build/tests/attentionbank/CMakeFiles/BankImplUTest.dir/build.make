@@ -77,15 +77,15 @@ tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o: tests/atte
 tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o: tests/attentionbank/BankImplUTest.cpp
 tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o: tests/attentionbank/CMakeFiles/BankImplUTest.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o -MF CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o.d -o CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o -MF CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o.d -o CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp
 
 tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.i"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp > CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.i
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp > CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.i
 
 tests/attentionbank/CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.s"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp -o CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.s
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp -o CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.s
 
 # Object files for target BankImplUTest
 BankImplUTest_OBJECTS = \

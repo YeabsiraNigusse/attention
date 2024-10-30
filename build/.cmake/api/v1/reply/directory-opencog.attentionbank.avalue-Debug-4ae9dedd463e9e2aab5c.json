@@ -1,0 +1,62 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"opencog/attentionbank/avalue/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/opencog",
+			"paths" : 
+			[
+				"opencog/attentionbank/avalue/libattentionval.so"
+			],
+			"targetId" : "attentionval::@8046e686a9fb667e2cfc",
+			"targetIndex" : 13,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/opencog/attentionbank/avalue",
+			"paths" : 
+			[
+				"opencog/attentionbank/avalue/AttentionValue.h",
+				"opencog/attentionbank/avalue/AttentionValueOfLink.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "opencog/attentionbank/avalue",
+		"source" : "opencog/attentionbank/avalue"
+	}
+}

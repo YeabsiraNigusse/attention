@@ -1,0 +1,66 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"opencog/attentionbank/bank/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/opencog",
+			"paths" : 
+			[
+				"opencog/attentionbank/bank/libattentionbank.so"
+			],
+			"targetId" : "attentionbank::@8c48784378ca193501db",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/opencog/attentionbank/bank",
+			"paths" : 
+			[
+				"opencog/attentionbank/bank/AFImplicator.h",
+				"opencog/attentionbank/bank/AtomBins.h",
+				"opencog/attentionbank/bank/AttentionBank.h",
+				"opencog/attentionbank/bank/AVUtils.h",
+				"opencog/attentionbank/bank/ImportanceIndex.h",
+				"opencog/attentionbank/bank/StochasticImportanceDiffusion.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "opencog/attentionbank/bank",
+		"source" : "opencog/attentionbank/bank"
+	}
+}

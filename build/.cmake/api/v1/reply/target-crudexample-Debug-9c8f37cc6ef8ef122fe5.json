@@ -1,0 +1,464 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "examples/c++-attentionbank/crudexample"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_EXECUTABLE",
+			"link_directories",
+			"FIND_PACKAGE",
+			"TARGET_LINK_LIBRARIES",
+			"ADD_DEFINITIONS",
+			"include",
+			"INCLUDE",
+			"INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"examples/c++-attentionbank/CMakeLists.txt",
+			"/usr/local/lib/cmake/CogServer/CogServerConfig.cmake",
+			"CMakeLists.txt",
+			"/usr/local/share/opencog/cmake/OpenCogInstallOptions.cmake",
+			"/usr/local/share/opencog/cmake/OpenCogGuile.cmake",
+			"/usr/local/share/opencog/cmake/OpenCogFindGuile.cmake",
+			"/usr/local/share/opencog/cmake/FindGuile.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 91,
+				"parent" : 2
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 71,
+				"parent" : 2
+			},
+			{
+				"file" : 3,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 16,
+				"parent" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 17,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 175,
+				"parent" : 2
+			},
+			{
+				"file" : 4,
+				"parent" : 11
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 30,
+				"parent" : 12
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 81,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 94,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 60,
+				"parent" : 2
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 142,
+				"parent" : 2
+			},
+			{
+				"file" : 5,
+				"parent" : 17
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 11,
+				"parent" : 18
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 9,
+				"parent" : 18
+			},
+			{
+				"file" : 6,
+				"parent" : 20
+			},
+			{
+				"command" : 4,
+				"file" : 6,
+				"line" : 90,
+				"parent" : 21
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 45,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 13,
+				"parent" : 18
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 164,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "CONFDIR=\"/usr/local/etc\""
+				},
+				{
+					"backtrace" : 10,
+					"define" : "DATADIR=\"/usr/local/share/opencog\""
+				},
+				{
+					"backtrace" : 13,
+					"define" : "GUILE_SITE_DIR=\"/usr/share/guile/site/3.0\""
+				},
+				{
+					"backtrace" : 14,
+					"define" : "HAVE_ATOMSPACE"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "HAVE_COGSERVER"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "HAVE_COGUTIL"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "HAVE_GUILE"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "HAVE_GUILE3"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "PROJECT_BINARY_DIR=\"/home/yeab/Desktop/attention/build\""
+				},
+				{
+					"backtrace" : 23,
+					"define" : "PROJECT_SOURCE_DIR=\"/home/yeab/Desktop/attention\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 24,
+					"path" : "/usr/include/guile/3.0"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/home/yeab/Desktop/attention"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "/home/yeab/Desktop/attention/build"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "attentionval::@8046e686a9fb667e2cfc"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "attentionbank::@8c48784378ca193501db"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "attention-types::@ce4ee50a1ed26bedf41a"
+		}
+	],
+	"id" : "crudexample::@c6fa6357c358ac0c103b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-L/usr/local/lib/opencog",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-L/usr/local/lib/opencog/modules",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/usr/local/lib/opencog:/usr/local/lib/opencog/modules:/home/yeab/Desktop/attention/build/opencog/attentionbank/bank:/home/yeab/Desktop/attention/build/opencog/attentionbank/avalue:/home/yeab/Desktop/attention/build/opencog/attentionbank/types",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "../../opencog/attentionbank/bank/libattentionbank.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../../opencog/attentionbank/avalue/libattentionval.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../../opencog/attentionbank/types/libattention-types.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libload_scm.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libsexcom.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libpersist-proxy.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libpersist.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libstorage-types.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libjson.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libsexpr.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libsmob.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libforeign.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libdatalog.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/usr/local/lib/opencog/libatomspace.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libclearbox.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libjoin.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libpattern.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libgrounded.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libexecution.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libatomflow.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libatomcore.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libatombase.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libtruthvalue.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libquery-engine.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libatom_types.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libvalue.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/librule.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libparallel.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Wl,--no-as-needed",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 1,
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libguile-3.0.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/local/lib/opencog/libcogutil.so",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "crudexample",
+	"nameOnDisk" : "crudexample",
+	"paths" : 
+	{
+		"build" : "examples/c++-attentionbank",
+		"source" : "examples/c++-attentionbank"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "examples/c++-attentionbank/CRUDExample.cc",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

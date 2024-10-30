@@ -77,15 +77,15 @@ tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o: tests/at
 tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o: tests/attentionbank/BankAsyncUTest.cpp
 tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o: tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o -MF CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o.d -o CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o -MF CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o.d -o CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp
 
 tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.i"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp > CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.i
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp > CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.i
 
 tests/attentionbank/CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.s"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp -o CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.s
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp -o CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.s
 
 # Object files for target BankAsyncUTest
 BankAsyncUTest_OBJECTS = \

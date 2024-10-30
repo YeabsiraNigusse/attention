@@ -1,0 +1,125 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_CUSTOM_TARGET",
+			"ADD_DEPENDENCIES",
+			"ADD_CXXTEST"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"/usr/local/share/opencog/cmake/AddCxxtest.cmake",
+			"tests/attentionbank/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 198,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 7,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 9,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 12,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 11
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "AttentionValueUTest::@4b3398c193b1eec7313c"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "AttentionUTest::@4b3398c193b1eec7313c"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "BankImplUTest::@4b3398c193b1eec7313c"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "BankAsyncUTest::@4b3398c193b1eec7313c"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "AttentionalFocusCBUTest::@4b3398c193b1eec7313c"
+		}
+	],
+	"id" : "tests::@6890427a1f51a3e7e1df",
+	"name" : "tests",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

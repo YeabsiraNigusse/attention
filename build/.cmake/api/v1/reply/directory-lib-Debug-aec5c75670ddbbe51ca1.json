@@ -1,0 +1,77 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/AttentionBank",
+			"exportName" : "AttentionBankTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "attentionval::@8046e686a9fb667e2cfc",
+					"index" : 13
+				},
+				{
+					"id" : "attentionbank::@8c48784378ca193501db",
+					"index" : 11
+				},
+				{
+					"id" : "attention-types::@ce4ee50a1ed26bedf41a",
+					"index" : 9
+				}
+			],
+			"paths" : 
+			[
+				"lib/CMakeFiles/Export/lib/cmake/AttentionBank/AttentionBankTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/AttentionBank",
+			"paths" : 
+			[
+				"build/lib/AttentionBankConfigVersion.cmake",
+				"build/lib/AttentionBankConfig.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "lib",
+		"source" : "lib"
+	}
+}

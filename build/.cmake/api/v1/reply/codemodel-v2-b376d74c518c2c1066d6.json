@@ -1,0 +1,416 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						7,
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						14,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "lib",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-lib-Debug-aec5c75670ddbbe51ca1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib"
+				},
+				{
+					"build" : "opencog",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-opencog-Debug-bb4078fad2b2164c6326.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "opencog",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "opencog/attentionbank",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-opencog.attentionbank-Debug-953264abdf040c39f4d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "opencog/attentionbank",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "opencog/attentionbank/avalue",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-opencog.attentionbank.avalue-Debug-4ae9dedd463e9e2aab5c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "opencog/attentionbank/avalue",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "opencog/attentionbank/bank",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-opencog.attentionbank.bank-Debug-ed85536cd60b7e4138f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "opencog/attentionbank/bank",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "opencog/attentionbank/types",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-opencog.attentionbank.types-Debug-1c2be44f7697598d68ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "opencog/attentionbank/types",
+					"targetIndexes" : 
+					[
+						6,
+						9,
+						10
+					]
+				},
+				{
+					"build" : "examples",
+					"childIndexes" : 
+					[
+						8
+					],
+					"jsonFile" : "directory-examples-Debug-1c8b83b621b6ef38a245.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples"
+				},
+				{
+					"build" : "examples/c++-attentionbank",
+					"jsonFile" : "directory-examples.c++-attentionbank-Debug-fa73f9a1abdbbbb0c7ea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "examples/c++-attentionbank",
+					"targetIndexes" : 
+					[
+						8,
+						15
+					]
+				},
+				{
+					"build" : "experiments",
+					"jsonFile" : "directory-experiments-Debug-65913f02cd3da1fedd48.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "experiments",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "tests",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-tests-Debug-b01f6abb0ab61427ef3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests"
+				},
+				{
+					"build" : "tests/attentionbank",
+					"jsonFile" : "directory-tests.attentionbank-Debug-0463fde378a04dc0c18e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "tests/attentionbank",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						10,
+						11
+					],
+					"name" : "attention",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "ExperimentSetupModule",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 11,
+					"id" : "AttentionUTest::@4b3398c193b1eec7313c",
+					"jsonFile" : "target-AttentionUTest-Debug-f16415f154207f003ceb.json",
+					"name" : "AttentionUTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "AttentionValueUTest::@4b3398c193b1eec7313c",
+					"jsonFile" : "target-AttentionValueUTest-Debug-ea924e5af24df4253d29.json",
+					"name" : "AttentionValueUTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "AttentionalFocusCBUTest::@4b3398c193b1eec7313c",
+					"jsonFile" : "target-AttentionalFocusCBUTest-Debug-628aa008bf4052b2bc08.json",
+					"name" : "AttentionalFocusCBUTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "BankAsyncUTest::@4b3398c193b1eec7313c",
+					"jsonFile" : "target-BankAsyncUTest-Debug-88f107a0e016790e889d.json",
+					"name" : "BankAsyncUTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "BankImplUTest::@4b3398c193b1eec7313c",
+					"jsonFile" : "target-BankImplUTest-Debug-27f5b0e88bc4e52ecfd0.json",
+					"name" : "BankImplUTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank::@a74330d6f80cbc580a55",
+					"jsonFile" : "target-COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank-Debug-6c29ae2b3ed1aa5823d8.json",
+					"name" : "COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank_types::@ce4ee50a1ed26bedf41a",
+					"jsonFile" : "target-COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank_types-Debug-fa1e3195f4f7fc63a8a8.json",
+					"name" : "COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SCM_CONFIG::@c21330e503ea140299a5",
+					"jsonFile" : "target-SCM_CONFIG-Debug-9c6d67d77b8df452cbd5.json",
+					"name" : "SCM_CONFIG",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "aseventsexample::@c6fa6357c358ac0c103b",
+					"jsonFile" : "target-aseventsexample-Debug-088714d84fc34d567463.json",
+					"name" : "aseventsexample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "attention-types::@ce4ee50a1ed26bedf41a",
+					"jsonFile" : "target-attention-types-Debug-4d6c21de4cb9b5ac2d37.json",
+					"name" : "attention-types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "attention_atom_types::@ce4ee50a1ed26bedf41a",
+					"jsonFile" : "target-attention_atom_types-Debug-ebc8fdac49f866b8c294.json",
+					"name" : "attention_atom_types",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "attentionbank::@8c48784378ca193501db",
+					"jsonFile" : "target-attentionbank-Debug-4d1c9f4e5b3a13181147.json",
+					"name" : "attentionbank",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "attentionexperiment::@43dde650a875fb06cb09",
+					"jsonFile" : "target-attentionexperiment-Debug-02f0ef718d86fe5f17c5.json",
+					"name" : "attentionexperiment",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "attentionval::@8046e686a9fb667e2cfc",
+					"jsonFile" : "target-attentionval-Debug-0411134253c503bbb3da.json",
+					"name" : "attentionval",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check-Debug-2ae7e294da5ba8443f11.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "crudexample::@c6fa6357c358ac0c103b",
+					"jsonFile" : "target-crudexample-Debug-9c8f37cc6ef8ef122fe5.json",
+					"name" : "crudexample",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-Debug-6e243812a3a39ef874d3.json",
+					"name" : "tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-a841da73ad90d478022a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yeab/Desktop/attention/build",
+		"source" : "/home/yeab/Desktop/attention"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

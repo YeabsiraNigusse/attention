@@ -73,29 +73,29 @@ opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.o: op
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.o: ../opencog/attentionbank/avalue/AttentionValue.cc
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.o: opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.o"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.o -MF CMakeFiles/attentionval.dir/AttentionValue.cc.o.d -o CMakeFiles/attentionval.dir/AttentionValue.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.o -MF CMakeFiles/attentionval.dir/AttentionValue.cc.o.d -o CMakeFiles/attentionval.dir/AttentionValue.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc
 
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/attentionval.dir/AttentionValue.cc.i"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc > CMakeFiles/attentionval.dir/AttentionValue.cc.i
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc > CMakeFiles/attentionval.dir/AttentionValue.cc.i
 
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValue.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/attentionval.dir/AttentionValue.cc.s"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc -o CMakeFiles/attentionval.dir/AttentionValue.cc.s
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc -o CMakeFiles/attentionval.dir/AttentionValue.cc.s
 
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o: opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/flags.make
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o: ../opencog/attentionbank/avalue/AttentionValueOfLink.cc
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o: opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o -MF CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o.d -o CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o -MF CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o.d -o CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc
 
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.i"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc > CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.i
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc > CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.i
 
 opencog/attentionbank/avalue/CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.s"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc -o CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.s
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/avalue && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc -o CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.s
 
 # Object files for target attentionval
 attentionval_OBJECTS = \

@@ -1,0 +1,43 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_CUSTOM_TARGET",
+			"DECLARE_GUILE_CONFIG_TARGET"
+		],
+		"files" : 
+		[
+			"/usr/local/share/opencog/cmake/OpenCogGuile.cmake",
+			"opencog/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 355,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "SCM_CONFIG::@c21330e503ea140299a5",
+	"name" : "SCM_CONFIG",
+	"paths" : 
+	{
+		"build" : "opencog",
+		"source" : "opencog"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,43 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_CUSTOM_TARGET",
+			"ADD_GUILE_MODULE"
+		],
+		"files" : 
+		[
+			"/usr/local/share/opencog/cmake/OpenCogGuile.cmake",
+			"opencog/attentionbank/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 210,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank::@a74330d6f80cbc580a55",
+	"name" : "COPY_TO_LOAD_PATH_IN_BUILD_DIR_FROM__home_yeab_Desktop_attention_opencog_attentionbank",
+	"paths" : 
+	{
+		"build" : "opencog/attentionbank",
+		"source" : "opencog/attentionbank"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/avalue",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionval_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionval.dir/AttentionValue.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValue.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/avalue",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionval_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionval.dir/AttentionValueOfLink.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/avalue/AttentionValueOfLink.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/AFImplicator.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/AFImplicator.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/AFImplicator.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/AtomBins.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/AtomBins.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/AtomBins.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/AttentionalFocusCB.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/AttentionalFocusCB.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/AttentionalFocusCB.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/AttentionBank.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/AttentionBank.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/AttentionBank.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/AttentionSCM.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/AttentionSCM.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/AttentionSCM.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/AVUtils.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/AVUtils.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/AVUtils.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/ImportanceIndex.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/ImportanceIndex.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/ImportanceIndex.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/bank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionbank_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionbank.dir/StochasticImportanceDiffusion.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/bank/StochasticImportanceDiffusion.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/bank/StochasticImportanceDiffusion.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/opencog/attentionbank/types",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattention_types_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attention-types.dir/atom_types_init.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc",
+  "file": "/home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/examples/c++-attentionbank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -o CMakeFiles/crudexample.dir/CRUDExample.cc.o -c /home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc",
+  "file": "/home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/examples/c++-attentionbank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -o CMakeFiles/aseventsexample.dir/AtomSpaceEventSubscribeExample.cc.o -c /home/yeab/Desktop/attention/examples/c++-attentionbank/AtomSpaceEventSubscribeExample.cc",
+  "file": "/home/yeab/Desktop/attention/examples/c++-attentionbank/AtomSpaceEventSubscribeExample.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/experiments",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_PYTHON_DYN_LINK -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionexperiment_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionexperiment.dir/ExperimentSetupModule.cc.o -c /home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc",
+  "file": "/home/yeab/Desktop/attention/experiments/ExperimentSetupModule.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/experiments",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_PYTHON_DYN_LINK -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -Dattentionexperiment_EXPORTS -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -fPIC -o CMakeFiles/attentionexperiment.dir/SentenceGenStimulateAgent.cc.o -c /home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc",
+  "file": "/home/yeab/Desktop/attention/experiments/SentenceGenStimulateAgent.cc"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/tests/attentionbank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -I/home/yeab/Desktop/attention/tests/attentionbank -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -o CMakeFiles/AttentionValueUTest.dir/AttentionValueUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionValueUTest.cpp",
+  "file": "/home/yeab/Desktop/attention/build/tests/attentionbank/AttentionValueUTest.cpp"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/tests/attentionbank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -I/home/yeab/Desktop/attention/tests/attentionbank -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -o CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp",
+  "file": "/home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/tests/attentionbank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -I/home/yeab/Desktop/attention/tests/attentionbank -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -o CMakeFiles/BankImplUTest.dir/BankImplUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp",
+  "file": "/home/yeab/Desktop/attention/build/tests/attentionbank/BankImplUTest.cpp"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/tests/attentionbank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -I/home/yeab/Desktop/attention/tests/attentionbank -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -o CMakeFiles/BankAsyncUTest.dir/BankAsyncUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp",
+  "file": "/home/yeab/Desktop/attention/build/tests/attentionbank/BankAsyncUTest.cpp"
+},
+{
+  "directory": "/home/yeab/Desktop/attention/build/tests/attentionbank",
+  "command": "/usr/bin/g++ -DCONFDIR=\\\"/usr/local/etc\\\" -DDATADIR=\\\"/usr/local/share/opencog\\\" -DGUILE_SITE_DIR=\\\"/usr/share/guile/site/3.0\\\" -DHAVE_ATOMSPACE -DHAVE_COGSERVER -DHAVE_COGUTIL -DHAVE_GUILE -DHAVE_GUILE3 -DPROJECT_BINARY_DIR=\\\"/home/yeab/Desktop/attention/build\\\" -DPROJECT_SOURCE_DIR=\\\"/home/yeab/Desktop/attention\\\" -I/usr/include/guile/3.0 -I/home/yeab/Desktop/attention -I/home/yeab/Desktop/attention/build -I/home/yeab/Desktop/attention/tests/attentionbank -Wall -fPIC -fstack-protector -Wno-variadic-macros -fopenmp -std=gnu++17 -O0 -ggdb3 -o CMakeFiles/AttentionalFocusCBUTest.dir/AttentionalFocusCBUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionalFocusCBUTest.cpp",
+  "file": "/home/yeab/Desktop/attention/build/tests/attentionbank/AttentionalFocusCBUTest.cpp"
+}
+]

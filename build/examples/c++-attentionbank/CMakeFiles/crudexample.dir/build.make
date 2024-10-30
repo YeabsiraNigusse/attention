@@ -73,15 +73,15 @@ examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.o: examples
 examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.o: ../examples/c++-attentionbank/CRUDExample.cc
 examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.o: examples/c++-attentionbank/CMakeFiles/crudexample.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.o"
-	cd /home/yeab/Desktop/attention/build/examples/c++-attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.o -MF CMakeFiles/crudexample.dir/CRUDExample.cc.o.d -o CMakeFiles/crudexample.dir/CRUDExample.cc.o -c /home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc
+	cd /home/yeab/Desktop/attention/build/examples/c++-attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.o -MF CMakeFiles/crudexample.dir/CRUDExample.cc.o.d -o CMakeFiles/crudexample.dir/CRUDExample.cc.o -c /home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc
 
 examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/crudexample.dir/CRUDExample.cc.i"
-	cd /home/yeab/Desktop/attention/build/examples/c++-attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc > CMakeFiles/crudexample.dir/CRUDExample.cc.i
+	cd /home/yeab/Desktop/attention/build/examples/c++-attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc > CMakeFiles/crudexample.dir/CRUDExample.cc.i
 
 examples/c++-attentionbank/CMakeFiles/crudexample.dir/CRUDExample.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/crudexample.dir/CRUDExample.cc.s"
-	cd /home/yeab/Desktop/attention/build/examples/c++-attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc -o CMakeFiles/crudexample.dir/CRUDExample.cc.s
+	cd /home/yeab/Desktop/attention/build/examples/c++-attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/examples/c++-attentionbank/CRUDExample.cc -o CMakeFiles/crudexample.dir/CRUDExample.cc.s
 
 # Object files for target crudexample
 crudexample_OBJECTS = \

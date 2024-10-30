@@ -73,15 +73,15 @@ opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.o:
 opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.o: ../opencog/attentionbank/types/atom_types_init.cc
 opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.o: opencog/attentionbank/types/CMakeFiles/attention-types.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.o"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/types && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.o -MF CMakeFiles/attention-types.dir/atom_types_init.cc.o.d -o CMakeFiles/attention-types.dir/atom_types_init.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/types && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.o -MF CMakeFiles/attention-types.dir/atom_types_init.cc.o.d -o CMakeFiles/attention-types.dir/atom_types_init.cc.o -c /home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc
 
 opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/attention-types.dir/atom_types_init.cc.i"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/types && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc > CMakeFiles/attention-types.dir/atom_types_init.cc.i
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/types && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc > CMakeFiles/attention-types.dir/atom_types_init.cc.i
 
 opencog/attentionbank/types/CMakeFiles/attention-types.dir/atom_types_init.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/attention-types.dir/atom_types_init.cc.s"
-	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/types && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc -o CMakeFiles/attention-types.dir/atom_types_init.cc.s
+	cd /home/yeab/Desktop/attention/build/opencog/attentionbank/types && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/opencog/attentionbank/types/atom_types_init.cc -o CMakeFiles/attention-types.dir/atom_types_init.cc.s
 
 # Object files for target attention-types
 attention__types_OBJECTS = \

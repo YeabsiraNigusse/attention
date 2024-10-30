@@ -77,15 +77,15 @@ tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o: tests/at
 tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o: tests/attentionbank/AttentionUTest.cpp
 tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o: tests/attentionbank/CMakeFiles/AttentionUTest.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yeab/Desktop/attention/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o -MF CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o.d -o CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o -MF CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o.d -o CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.o -c /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp
 
 tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.i"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp > CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.i
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp > CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.i
 
 tests/attentionbank/CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.s"
-	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp -o CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.s
+	cd /home/yeab/Desktop/attention/build/tests/attentionbank && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yeab/Desktop/attention/build/tests/attentionbank/AttentionUTest.cpp -o CMakeFiles/AttentionUTest.dir/AttentionUTest.cpp.s
 
 # Object files for target AttentionUTest
 AttentionUTest_OBJECTS = \
