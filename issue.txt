@@ -4,7 +4,7 @@ the problem with this code base is that
 - when i remove experiments from the cmakelist file it builds
 - atom_types file doesnt exist inside attention folder
 - there is no agent.h file in the cogserver folder
-- so the missing of the above two files lead to build error
+- so the missing of the above two files lead to build error which prevents from building the experiment folder
 
 possible solutions
 
@@ -12,3 +12,62 @@ possible solutions
 - ask someone who knows or run the codebase with some examples to see if it works
 - just play with some c++ functions if they work
 - study fome of the functions how they work.
+
+
+things i know till now which part of the system is not working
+
+ONE 
+
+- the attention folder can not be built due to missing files on the cogserver 
+- specifically the agent module which contain files like agent.h and scheduler.h
+- this missing module imported by attention module in the following files
+
+ - attention/imprtanceDiffusionBase.h
+ - attention/AFRentCollectionAgent.h
+ - attention/AttentionModule.cc etc ...
+
+- not only agent module is missing but the same file is tried to be included with different path 
+- which is not exist in the system, specifically the Agent.h file in the cogserver repository
+
+MORE DETAIL
+
+- the /Agent.h file is tried to be imported from <opencog/cogserver/server/Agent.h> inside /experiments/ExperimentSetupModule.h and /examples/hopfield/imprintAgent.h files and also
+- the /Agent.h file is tried to be imported from <opencog/cogserver/modules/agents/Agent.h> inside /attention/AFRentCollectionAgents.h and other files
+
+i dont know if they are different files with the same file name though!
+ 
+TWO 
+
+- the attention module is not added during the project building
+
+THREE 
+
+- the experiments folder is not added during the project building
+
+
+HOPE 
+
+- asking someone who knows the codebase to run the codebase with some examples to see if it works
+
+TILL THEN
+
+- just play with some c++ functions if they work
+- study some of agent implementation functions how they work.
+
+
+THINGS TO CHECK OUT
+
+- check the test files found inside attention and attention bank subfolders how they are testing the corresponding functions
+- study the testd function along with thire testing mechanizm 
+
+
+WAYS WE TRIED OUT
+
+- we found that the agent module is deleted at <commit> commit
+- we tried get the agent module in the cogserver repository from specific commit back and build with the recent commit but it didn't work
+- we tried to build the cogserver before the agent module deleted but it didnt work
+
+
+
+so we concluded that to build the attention module we need the agent module 
+which is deleted at <commit> commit from the cogserver repository
